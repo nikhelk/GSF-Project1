@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GSF-project1/static/css/main.968b8429.css",
+    "main.js": "/GSF-project1/static/js/main.a3afd1f5.js",
+    "static/js/453.49804096.chunk.js": "/GSF-project1/static/js/453.49804096.chunk.js",
+    "index.html": "/GSF-project1/index.html",
+    "main.968b8429.css.map": "/GSF-project1/static/css/main.968b8429.css.map",
+    "main.a3afd1f5.js.map": "/GSF-project1/static/js/main.a3afd1f5.js.map",
+    "453.49804096.chunk.js.map": "/GSF-project1/static/js/453.49804096.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968b8429.css",
+    "static/js/main.a3afd1f5.js"
+  ]
+}
